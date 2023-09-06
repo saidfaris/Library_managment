@@ -8,9 +8,9 @@ if __name__ == '__main__':
     restaurant3 = Restaurant(name="Restaurant C", price=40000)
 
     # sample customers
-    customer1 = Customer(first_name="John", last_name="Doe")
-    customer2 = Customer(first_name="Jane", last_name="Smith")
-    customer3 = Customer(first_name="Alice", last_name="Johnson")
+    customer1 = Customer(first_name="moh", last_name="said")
+    customer2 = Customer(first_name="far", last_name="Smit")
+    customer3 = Customer(first_name="qam", last_name="mohamed")
 
     # sample reviews
     review1 = Review(review = 'It was a good place',star_rating=5, restaurant=restaurant1, customer=customer1)
